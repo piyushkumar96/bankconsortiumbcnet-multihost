@@ -8,7 +8,7 @@
 
 2. Then I had **UP** the initial blockchain network which consists of **3 ORGs, 5 PEERS, 3 CAs, 3 CHANNELS**.
 
-3. After this I used the scripts to join peers.
+3. After this I have joined the peers.
 
 4. Added new peer to exsisting org.
 
