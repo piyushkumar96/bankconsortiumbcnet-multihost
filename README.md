@@ -21,24 +21,6 @@
 8. Then install and instantiate chaincodes on peers.
 
 
-## Technology STACK
-1. Hyperledger Fabric(v1.4) (Kafka, Zookeeper)
-2. Golang and Nodejs (Chaincode)
-3. Kubernetes 
-3. Docker & Container
-4. Shell Scripting
-5. Python
-6. NFS 
---------------------------------------------------------------------------------------------------------------------------
-
-## System and Software Requirments
-1. Ubuntu, Docker, Golang, Python.
-2. Download hypeledger fabric binaries like cryptogen, configtxgen etc. basic bin folder of fabric-samples outside the this repo (after clonning).
-3. Download Chaincode folder just outside this repo (after clonning).
-4. NFS.
-
-
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
                                 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
